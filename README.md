@@ -29,3 +29,16 @@ An ESP32-based IoT home automation system capable of controlling 8 electrical ap
 * Voice control
 * Mobile app control
 * Timer scheduling
+## PCB Preview
+
+### Top View
+
+![PCB Top](docs/pcb_top_view.png)
+
+### 3D View
+
+![PCB 3D](docs/pcb_3d_view.png)
+
+### Assembled Board
+
+![Board](docs/assembled_board.jpg)
